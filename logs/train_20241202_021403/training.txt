@@ -1,0 +1,4196 @@
+Epoch 1, Batch 1:
+Batch Loss: 0.9144
+Batch Accuracy: 68.75%
+
+Epoch 1, Batch 2:
+Batch Loss: 0.0460
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 3:
+Batch Loss: 0.7887
+Batch Accuracy: 65.62%
+
+Epoch 1, Batch 4:
+Batch Loss: 0.0700
+Batch Accuracy: 93.75%
+
+Epoch 1, Batch 5:
+Batch Loss: 0.0008
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 6:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 7:
+Batch Loss: 0.0003
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 8:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 9:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 10:
+Batch Loss: 0.0038
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 11:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 12:
+Batch Loss: 0.0009
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 13:
+Batch Loss: 0.0745
+Batch Accuracy: 96.88%
+
+Epoch 1, Batch 14:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 15:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 16:
+Batch Loss: 0.0004
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 17:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 18:
+Batch Loss: 0.0004
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 19:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 20:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 21:
+Batch Loss: 0.0003
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 22:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 23:
+Batch Loss: 0.0004
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 24:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 25:
+Batch Loss: 0.0182
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 26:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 27:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 28:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 29:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 30:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 31:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 32:
+Batch Loss: 0.0006
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 33:
+Batch Loss: 0.0006
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 34:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 35:
+Batch Loss: 0.0018
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 36:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 37:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 38:
+Batch Loss: 0.0027
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 39:
+Batch Loss: 0.0005
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 40:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 41:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 42:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 43:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 44:
+Batch Loss: 0.0003
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 45:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 46:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 47:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 48:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 49:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 50:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 51:
+Batch Loss: 0.0003
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 52:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 53:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 54:
+Batch Loss: 0.0004
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 55:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 56:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 57:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 58:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 59:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 60:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 61:
+Batch Loss: 0.0003
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 62:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 63:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 64:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 65:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 66:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 67:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 68:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 69:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 70:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 71:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 72:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 73:
+Batch Loss: 0.0003
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 74:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 75:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 76:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 77:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 78:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 79:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 80:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 81:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 82:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 83:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 84:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 85:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 86:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 87:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 88:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 89:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 90:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 91:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 92:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 93:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 94:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 95:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 96:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 97:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 98:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 99:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 100:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 101:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 102:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 103:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 104:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 105:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 106:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 107:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 108:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 109:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 110:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 111:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 112:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 113:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 114:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 115:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 116:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 117:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 118:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 119:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 120:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 121:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 122:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 123:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 124:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 125:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 126:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 127:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 128:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 129:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 130:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 131:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 132:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 133:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 134:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 135:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 136:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 137:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 138:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 139:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 140:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 141:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 142:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 143:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 144:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 145:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 146:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 147:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 148:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 149:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 150:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 151:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 152:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 153:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 154:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 155:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 156:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 157:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 158:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 159:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 160:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 161:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 162:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 163:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 164:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 165:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 166:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 167:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 168:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 169:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 170:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 171:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 172:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 173:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 174:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 175:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 176:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 177:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 178:
+Batch Loss: 0.0003
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 179:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 180:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 181:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 182:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 183:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 184:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 185:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 186:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 187:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 188:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 189:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 190:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 191:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 192:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 193:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 194:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 195:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 196:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 197:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 198:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 199:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 200:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 201:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 202:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 203:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 204:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 205:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 206:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 207:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 208:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 209:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 210:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 211:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 212:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 213:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 214:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 215:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 216:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 217:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 218:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 219:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 220:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 221:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 222:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 223:
+Batch Loss: 0.0009
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 224:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 225:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 226:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 227:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 228:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 229:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 230:
+Batch Loss: 0.0004
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 231:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 232:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 233:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 234:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 235:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 236:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 237:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 238:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 239:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 240:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 241:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 242:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 243:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 244:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 245:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 246:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 247:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 248:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 249:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 250:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 251:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 252:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 253:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 254:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 255:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 256:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 257:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 258:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 259:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 260:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 261:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 262:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 263:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 264:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 265:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 266:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 267:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 268:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 269:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 270:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 271:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 272:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 273:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 274:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 275:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 276:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 277:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 278:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 279:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 280:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 281:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 282:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 283:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 284:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 285:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 286:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 287:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 288:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 289:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 290:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 291:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 292:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 293:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 294:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 295:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 296:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 297:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 298:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 299:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 300:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 301:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 302:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 303:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 304:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 305:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 306:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 307:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 308:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 309:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 310:
+Batch Loss: 0.0008
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 311:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 312:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 313:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 314:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 315:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 316:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 317:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 318:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 319:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 320:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 321:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 322:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 323:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 324:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 325:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 326:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 327:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 328:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 329:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 330:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 331:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 332:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 333:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 334:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 335:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 336:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 337:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 338:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 339:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 340:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 341:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 342:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 343:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 344:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 345:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 346:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 347:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 348:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1, Batch 349:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 1:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2, Batch 1:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 2:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 3:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 4:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 5:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 6:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 7:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 8:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 9:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 10:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 11:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 12:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 13:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 14:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 15:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 16:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 17:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 18:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 19:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 20:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 21:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 22:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 23:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 24:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 25:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 26:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 27:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 28:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 29:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 30:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 31:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 32:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 33:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 34:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 35:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 36:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 37:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 38:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 39:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 40:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 41:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 42:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 43:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 44:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 45:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 46:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 47:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 48:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 49:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 50:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 51:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 52:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 53:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 54:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 55:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 56:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 57:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 58:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 59:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 60:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 61:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 62:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 63:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 64:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 65:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 66:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 67:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 68:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 69:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 70:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 71:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 72:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 73:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 74:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 75:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 76:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 77:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 78:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 79:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 80:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 81:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 82:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 83:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 84:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 85:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 86:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 87:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 88:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 89:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 90:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 91:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 92:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 93:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 94:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 95:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 96:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 97:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 98:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 99:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 100:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 101:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 102:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 103:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 104:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 105:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 106:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 107:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 108:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 109:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 110:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 111:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 112:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 113:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 114:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 115:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 116:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 117:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 118:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 119:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 120:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 121:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 122:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 123:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 124:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 125:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 126:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 127:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 128:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 129:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 130:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 131:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 132:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 133:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 134:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 135:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 136:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 137:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 138:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 139:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 140:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 141:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 142:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 143:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 144:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 145:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 146:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 147:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 148:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 149:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 150:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 151:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 152:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 153:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 154:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 155:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 156:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 157:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 158:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 159:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 160:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 161:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 162:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 163:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 164:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 165:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 166:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 167:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 168:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 169:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 170:
+Batch Loss: 0.0005
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 171:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 172:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 173:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 174:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 175:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 176:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 177:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 178:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 179:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 180:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 181:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 182:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 183:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 184:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 185:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 186:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 187:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 188:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 189:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 190:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 191:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 192:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 193:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 194:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 195:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 196:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 197:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 198:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 199:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 200:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 201:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 202:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 203:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 204:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 205:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 206:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 207:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 208:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 209:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 210:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 211:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 212:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 213:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 214:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 215:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 216:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 217:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 218:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 219:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 220:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 221:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 222:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 223:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 224:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 225:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 226:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 227:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 228:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 229:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 230:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 231:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 232:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 233:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 234:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 235:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 236:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 237:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 238:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 239:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 240:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 241:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 242:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 243:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 244:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 245:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 246:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 247:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 248:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 249:
+Batch Loss: 0.0002
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 250:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 251:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 252:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 253:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 254:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 255:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 256:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 257:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 258:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 259:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 260:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 261:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 262:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 263:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 264:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 265:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 266:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 267:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 268:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 269:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 270:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 271:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 272:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 273:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 274:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 275:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 276:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 277:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 278:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 279:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 280:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 281:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 282:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 283:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 284:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 285:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 286:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 287:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 288:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 289:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 290:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 291:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 292:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 293:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 294:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 295:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 296:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 297:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 298:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 299:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 300:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 301:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 302:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 303:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 304:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 305:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 306:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 307:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 308:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 309:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 310:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 311:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 312:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 313:
+Batch Loss: 0.0001
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 314:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 315:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 316:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 317:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 318:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 319:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 320:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 321:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 322:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 323:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 324:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 325:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 326:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 327:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 328:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 329:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 330:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 331:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 332:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 333:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 334:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 335:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 336:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 337:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 338:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 339:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 340:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 341:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 342:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 343:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 344:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 345:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 346:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 347:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 348:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2, Batch 349:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 2:
+Validation Loss: 0.0000
+Validation Accuracy: 1.0000
+Validation Precision: 1.0000
+Validation Recall: 1.0000
+Validation F1 Score: 1.0000
+
+Epoch 3, Batch 1:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 2:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 3:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 4:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 5:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 6:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 7:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 8:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 9:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 10:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 11:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 12:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 13:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 14:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 15:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 16:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 17:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 18:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 19:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 20:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 21:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 22:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 23:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 24:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 25:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 26:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 27:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 28:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 29:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 30:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 31:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 32:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 33:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 34:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 35:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 36:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 37:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 38:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 39:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 40:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 41:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 42:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+
+Epoch 3, Batch 43:
+Batch Loss: 0.0000
+Batch Accuracy: 100.00%
+

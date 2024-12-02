@@ -1,0 +1,17 @@
+name: dev
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.21.6
+  - pillow=8.2.0
+  - matplotlib=3.4.3
+  - pytorch=1.12.0
+  - torchvision=0.13.0
+  - scikit-learn
+  - tqdm
+  - pip
+  - pip:
+      - torchaudio==0.12.0
+      - wandb
